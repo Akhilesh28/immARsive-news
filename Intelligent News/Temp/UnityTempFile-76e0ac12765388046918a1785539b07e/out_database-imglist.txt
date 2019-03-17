@@ -1,0 +1,3 @@
+isl|Assets/GoogleARCore/Examples/AugmentedImage/Images/isl.jpg
+toh|Assets/GoogleARCore/Examples/AugmentedImage/Images/toh.jpg
+volvo|Assets/GoogleARCore/Examples/AugmentedImage/Images/volvo.jpg
